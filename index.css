@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 700px;
+    flex-wrap: wrap;
+    
+  }
+
+  
+  .container {
+   
+
+    background-color: white
+  }
+  
+  .container > div {
+    border: 1px solid #000000;
+    
+  }
